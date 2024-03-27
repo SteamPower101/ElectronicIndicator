@@ -1,0 +1,26 @@
+Hardware settings for EngineIndicatorApp.  Colon is the delimiter.
+Software version: 1.0
+Test title:First Test
+Test description:Using simulated sensor readings.\n\nData fitted to GM SE101 steam car engine reported measurements.\n
+Are units metric?: False
+Cylinder bore: 3.5
+Cylinder stroke: 2.625
+Conrod length: 5.1
+Encoder P/R: 360
+Number of readings in average: 10
+Cylinder pressure transducer calibration units: PSIA
+Cylinder pressure transducer low calibration pressure: 0
+Cylinder pressure transducer low calibration voltage: 0.5
+Cylinder pressure transducer high calibration pressure: 1000
+Cylinder pressure transducer high calibration voltage: 4.5
+Was steam chest pressure measured?: False
+Steam chest pressure transducer calibration units: PSIG
+Steam chest pressure transducer low calibration pressure: 0
+Steam chest pressure transducer low calibration voltage: 0.5
+Steam chest pressure transducer high calibration pressure: 1000
+Steam chest pressure transducer high calibration voltage: 4.5
+Stated boiler pressure: 800
+Stated boiler temperature: 700
+Stated boiler steam is saturated: False
+Assumed diagram factor %: 80
+Assumed cylinder clearance %: 5

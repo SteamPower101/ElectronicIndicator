@@ -1,0 +1,48 @@
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.exe.config
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.exe
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.pdb
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.xml
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.AssemblyReference.cache
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.Resources.resources
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.GenerateResource.cache
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.CoreCompileInputs.cache
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.exe
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.xml
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.pdb
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmLogPlot.resources
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmData.resources
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmMainScreen.resources
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmReport.resources
+G:\My Drive\Digital Indicator\PC Program\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmSettings.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.exe.config
+C:\Users\tn\source\repos\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.exe
+C:\Users\tn\source\repos\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.pdb
+C:\Users\tn\source\repos\EngineIndicatorApp\bin\Debug\EngineIndicatorApp.xml
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.AssemblyReference.cache
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmLogPlot.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmData.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmMainScreen.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmReport.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.frmSettings.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.Resources.resources
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.GenerateResource.cache
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.vbproj.CoreCompileInputs.cache
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.exe
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.xml
+C:\Users\tn\source\repos\EngineIndicatorApp\obj\Debug\EngineIndicatorApp.pdb
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\bin\Debug\EngineIndicatorApp.exe.config
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\bin\Debug\EngineIndicatorApp.exe
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\bin\Debug\EngineIndicatorApp.pdb
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\bin\Debug\EngineIndicatorApp.xml
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.vbproj.AssemblyReference.cache
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.frmLogPlot.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.frmData.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.frmMainScreen.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.frmReport.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.frmSettings.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.Resources.resources
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.vbproj.GenerateResource.cache
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.vbproj.CoreCompileInputs.cache
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.exe
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.xml
+C:\Users\tn\Source\Repos\SteamPower101\ElectronicIndicator\obj\Debug\EngineIndicatorApp.pdb
